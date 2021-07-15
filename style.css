@@ -1,0 +1,172 @@
+
+body{
+    width: 90%;
+    margin-left: 5%;
+}
+img{
+   width: 100%;
+}
+
+header{
+    position: relative;
+    height: 520px;
+}
+.encabezado{
+    position: relative;
+    bottom: 530px;
+    height: 510px;
+    
+}
+.principal{
+    float: left;
+    color: white;
+    padding-left: 35px;
+}
+.menu{
+    float: right;
+    
+}
+#opcion{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    padding: 5px;
+}
+.secundario{
+    padding-top: 400px;
+    font-size: 20px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 35px;
+    line-height: 35px;
+}
+.subtitulo{
+    text-align: center;
+}
+#iconos{
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+section{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    justify-content: space-between;
+}
+.item{
+    width: 30%;
+   
+}
+h3{
+    text-align: center;
+}
+#relleno{
+    text-align: center;
+}
+#iconopeq{
+    width: 30px;
+}
+.caracteristicas{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 35px;
+    display: flex;
+    justify-content: space-between;
+}
+#boton{
+    position: relative;
+    display: inline-block;
+    padding: 8px 20px;
+    margin-top: 20px;
+    width: 80%;
+    margin-left: 10px;
+    background-color: #e37227;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.casas{
+    background-color: whitesmoke;
+    border: 1px solid rgb(223, 210, 210);
+}
+.botonfinal{
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+
+}
+#btnfinal{
+    padding: 8px 20px;
+    margin-top: 20px;
+    margin-right: 120px;
+    width: 150px;
+    margin-left: 10px;
+    background-color: #08b911;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.pie{
+    position: relative;
+    bottom: 469px;
+    height: 449px;
+}
+.titpie{
+    padding-top: 200px;
+    font-size: 20px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 35px;
+    line-height: 35px;
+}
+.ppie{
+    font-size: 15px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 35px;
+
+}
+.contacto{
+    position: relative;
+    display: inline-block;
+    padding: 8px 20px;
+    margin-top: 20px;
+    width: 15%;
+    margin-left: 35px;
+    background-color: #e37227;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+footer{
+    height: 530px;
+}
+.menufinal{
+    position: relative;
+    background-color: rgb(112, 107, 107);
+   bottom: 500px;
+   height: 28px;
+   padding: 20px;
+}
+.contenido{
+    width: 90%;
+    margin: auto;
+}
+h4{
+    font-size: 25px;
+    font-weight: 100;
+}
+.precio{
+    color: rgb(148, 228, 28);
+    font-weight: bold;
+}
